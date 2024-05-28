@@ -43,8 +43,6 @@ Ensure your SQL file is placed in the root folder and do not insert any records 
 
 ## Web Server
 
-```
-
 ### Environment Variables
 The `.env` file should contain the following configuration variables:
 - `MYSQL_DATABASE`
